@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "India Gate Basmati Rice",
+            "price": 349.00,
+            "imgURL": "./images/india-gate-basmati-rice.png"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 14",
+            "price": 75999.00,
+            "imgURL": "./images/iphone_14.png"
+        },
+        {
+            "id": 3,
+            "name": "Philips Air Fryer",
+            "price": 8399.00,
+            "imgURL": "./images/philips-air-fryer.png"
+        },
+        {
+            "id": 4,
+            "name": "Saffola Gold",
+            "price": 479.00,
+            "imgURL": "./images/saffola-gold.png"
+        },
+        {
+            "id": 5,
+            "name": "Samsung Watch",
+            "price": 2459.00,
+            "imgURL": "./images/samsung-galaxy-watch.png"
+        }
+    ]
+}
